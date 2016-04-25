@@ -1,0 +1,14 @@
+.\flash\rtx_blinky.o: RTX_Blinky.c
+.\flash\rtx_blinky.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\INC\cmsis_os.h
+.\flash\rtx_blinky.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\rtx_blinky.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\flash\rtx_blinky.o: C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.0.0\Board\Board_LED.h
+.\flash\rtx_blinky.o: C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.0.0\Board\Board_Buttons.h
+.\flash\rtx_blinky.o: C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.5.0\Device\Include\stm32f0xx.h
+.\flash\rtx_blinky.o: C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.5.0\Device\Include\stm32f072xb.h
+.\flash\rtx_blinky.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm0.h
+.\flash\rtx_blinky.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h
+.\flash\rtx_blinky.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h
+.\flash\rtx_blinky.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h
+.\flash\rtx_blinky.o: C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.5.0\Device\Include\system_stm32f0xx.h
+.\flash\rtx_blinky.o: DAC_DRV.h
