@@ -1,0 +1,13 @@
+--cpu Cortex-M0
+".\flash\rtx_blinky.o"
+".\flash\dac_drv.o"
+".\flash\buttons_stm32f072-discovery.o"
+".\flash\led_stm32f072-discovery.o"
+"C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\RTOS\RTX\LIB\ARM\RTX_CM0.lib"
+".\flash\rtx_conf_cm.o"
+".\flash\startup_stm32f072xb.o"
+".\flash\system_stm32f0xx.o"
+--library_type=microlib --strict --scatter ".\Flash\RTX_Blinky.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Flash\RTX_Blinky.map" -o .\Flash\RTX_Blinky.axf
